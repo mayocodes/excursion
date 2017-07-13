@@ -2,9 +2,19 @@
   font-family: Verdana;
   background-color: black;
 }
+
 h1 {
   font-size: 50px;
   color: white;
   font-weight: normal;
   text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
 }
